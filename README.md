@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Tanmay Sharma 👋
 
-<!--
-**tanmaysharma-git/tanmaysharma-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming Computer Science Engineering student at Bennett University (Starting August). 
+I am building a foundational engine in software development, logic, and systems architecture.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Focused On Right Now:
+- 🐍 Mastering Python programming and logic building before campus orientation.
+- 💻 Getting comfortable with version control and environment setups.
+- 🎯 Setting up a disciplined engineering routine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools:
+- **Languages:** Python (Learning)
+- **Environments:** VS Code, Git/GitHub
